@@ -1,0 +1,66 @@
+body{
+background-color: blueviolet;
+}
+
+}
+#issa_video{
+    width: 100%;
+}
+
+#CT{
+
+    height:1000px;
+    
+    width:1000px;
+    
+    border: solid;
+
+    
+
+    position: absolute; left:150px;top:180px; 
+
+
+}
+
+
+
+#p0{
+
+border: aqua;
+
+height:100px;
+
+width:250px;
+
+border: solid;
+
+text-align: auto;
+
+margin-left:1200px ;
+
+position: absolute;top: 132px;
+}
+
+#p1{
+ border: crimson;
+
+ height:700px;   
+
+width:250px ;
+
+margin-left:1200px;
+
+margin-top: 400px;
+
+text-align: autoS;
+
+border: solid;
+
+position: absolute;
+}
+
+
+
+
+
+
